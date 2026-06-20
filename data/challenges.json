@@ -1,0 +1,2675 @@
+[
+  {
+    "challenge_name": "SPG",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 7152
+  },
+  {
+    "challenge_name": "yesnce",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 10737
+  },
+  {
+    "challenge_name": "Leaking Park",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 4841
+  },
+  {
+    "challenge_name": "Symbols",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 7326
+  },
+  {
+    "challenge_name": "Hexoding64",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 2590
+  },
+  {
+    "challenge_name": "Spellbound Servants",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 3761
+  },
+  {
+    "challenge_name": "GhostlyTemplates",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 9810
+  },
+  {
+    "challenge_name": "PumpkinSpice",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 6581
+  },
+  {
+    "challenge_name": "HauntMart",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 7369
+  },
+  {
+    "challenge_name": "SpookTastic",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 9850
+  },
+  {
+    "challenge_name": "CandyVault",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 4849
+  },
+  {
+    "challenge_name": "Trick or Treat",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 7080
+  },
+  {
+    "challenge_name": "Bat Problems",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 3289
+  },
+  {
+    "challenge_name": "Valhalloween",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 7111
+  },
+  {
+    "challenge_name": "Spooky phishing",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 2927
+  },
+  {
+    "challenge_name": "Vulnerable Season",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 3423
+  },
+  {
+    "challenge_name": "Dynamic Secrets",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 1354
+  },
+  {
+    "challenge_name": "CandyBowl",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 955
+  },
+  {
+    "challenge_name": "SpellBrewery",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 5410
+  },
+  {
+    "challenge_name": "SpookyCheck",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 6773
+  },
+  {
+    "challenge_name": "GhostInTheMachine",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 2159
+  },
+  {
+    "challenge_name": "Claw Machine",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 11737
+  },
+  {
+    "challenge_name": "Lemonade Stand v1",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 8284
+  },
+  {
+    "challenge_name": "Lesson",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 10863
+  },
+  {
+    "challenge_name": "Pinata",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 7889
+  },
+  {
+    "challenge_name": "Magic Trick",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "htboo-ctf-2023",
+    "year": 2023,
+    "writeup_length": 7841
+  },
+  {
+    "challenge_name": "Mayday Mayday",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 10347
+  },
+  {
+    "challenge_name": "MSS",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 9561
+  },
+  {
+    "challenge_name": "MSS Revenge",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 9570
+  },
+  {
+    "challenge_name": "Zombie Rolled",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 12755
+  },
+  {
+    "challenge_name": "Nexus Void",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 10486
+  },
+  {
+    "challenge_name": "PhantomFeed",
+    "category": "web",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 24894
+  },
+  {
+    "challenge_name": "GateCrash",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 4988
+  },
+  {
+    "challenge_name": "Androcat",
+    "category": "fullpwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 10939
+  },
+  {
+    "challenge_name": "Umbrella",
+    "category": "fullpwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 36397
+  },
+  {
+    "challenge_name": "Apethanto",
+    "category": "fullpwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 10785
+  },
+  {
+    "challenge_name": "Shadow of the Undead",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 27751
+  },
+  {
+    "challenge_name": "One Step Closer",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 3635
+  },
+  {
+    "challenge_name": "ZombieNet",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 15531
+  },
+  {
+    "challenge_name": "WindowOfOpportunity",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 2149
+  },
+  {
+    "challenge_name": "BioBundle",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 2730
+  },
+  {
+    "challenge_name": "RiseFromTheDead",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 6340
+  },
+  {
+    "challenge_name": "Zombienator",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 11424
+  },
+  {
+    "challenge_name": "Great Old Talisman",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 4754
+  },
+  {
+    "challenge_name": "Zombiedote",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "uni-ctf-2023",
+    "year": 2023,
+    "writeup_length": 12867
+  },
+  {
+    "challenge_name": "Stop Drop and Roll",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 2372
+  },
+  {
+    "challenge_name": "Were Pickle Phreaks Revenge",
+    "category": "misc",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6039
+  },
+  {
+    "challenge_name": "Path of Survival",
+    "category": "misc",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 15297
+  },
+  {
+    "challenge_name": "Were Pickle Phreaks",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6341
+  },
+  {
+    "challenge_name": "Unbreakable",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6045
+  },
+  {
+    "challenge_name": "MultiDigilingual",
+    "category": "misc",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 11770
+  },
+  {
+    "challenge_name": "Quantum Conundrum",
+    "category": "misc",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6720
+  },
+  {
+    "challenge_name": "Colored Squares",
+    "category": "misc",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 11355
+  },
+  {
+    "challenge_name": "Cubicle Riddle",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6686
+  },
+  {
+    "challenge_name": "Character",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 1882
+  },
+  {
+    "challenge_name": "ROT128",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Insane",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 24548
+  },
+  {
+    "challenge_name": "Iced Tea",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 7874
+  },
+  {
+    "challenge_name": "Arranged",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6405
+  },
+  {
+    "challenge_name": "Makeshift",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 2077
+  },
+  {
+    "challenge_name": "Partial Tenacity",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 11215
+  },
+  {
+    "challenge_name": "Primary Knowledge",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 5490
+  },
+  {
+    "challenge_name": "Dynastic",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 5705
+  },
+  {
+    "challenge_name": "Blunt",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 3244
+  },
+  {
+    "challenge_name": "Permuted",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 11527
+  },
+  {
+    "challenge_name": "Tsayaki",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 14509
+  },
+  {
+    "challenge_name": "Flash-ing Logs",
+    "category": "hardware",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 26469
+  },
+  {
+    "challenge_name": "BunnyPass",
+    "category": "hardware",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 2021
+  },
+  {
+    "challenge_name": "Maze",
+    "category": "hardware",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 2363
+  },
+  {
+    "challenge_name": "The PROM",
+    "category": "hardware",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6320
+  },
+  {
+    "challenge_name": "Rids",
+    "category": "hardware",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6247
+  },
+  {
+    "challenge_name": "Flag Command",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 1114
+  },
+  {
+    "challenge_name": "Labyrinth Linguist",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 9430
+  },
+  {
+    "challenge_name": "apexsurvive",
+    "category": "web",
+    "difficulty": "Advanced",
+    "difficulty_original": "Insane",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 31489
+  },
+  {
+    "challenge_name": "SerialFlow",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 14480
+  },
+  {
+    "challenge_name": "LockTalk",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 7733
+  },
+  {
+    "challenge_name": "Testimonial",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 5329
+  },
+  {
+    "challenge_name": "Percetron",
+    "category": "web",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 41780
+  },
+  {
+    "challenge_name": "TimeKORP",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 1868
+  },
+  {
+    "challenge_name": "KORP Terminal",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 4329
+  },
+  {
+    "challenge_name": "Fake Boost",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 3720
+  },
+  {
+    "challenge_name": "Persue The Tracks",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 3698
+  },
+  {
+    "challenge_name": "Data Siege",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 18454
+  },
+  {
+    "challenge_name": "Oblique Final",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Insane",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 23369
+  },
+  {
+    "challenge_name": "Urgent",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 2053
+  },
+  {
+    "challenge_name": "Confinement",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6662
+  },
+  {
+    "challenge_name": "Phreaky",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 2774
+  },
+  {
+    "challenge_name": "An unusual sighting",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 1988
+  },
+  {
+    "challenge_name": "Game Invitation",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 8840
+  },
+  {
+    "challenge_name": "It Has Begun",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 3653
+  },
+  {
+    "challenge_name": "FlecksOfGold",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 8342
+  },
+  {
+    "challenge_name": "LootStash",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 462
+  },
+  {
+    "challenge_name": "PackedAway",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 790
+  },
+  {
+    "challenge_name": "FollowThePath",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 4516
+  },
+  {
+    "challenge_name": "QuickScan",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 5453
+  },
+  {
+    "challenge_name": "MazeOfPower",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Insane",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 14369
+  },
+  {
+    "challenge_name": "Crushing",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 3954
+  },
+  {
+    "challenge_name": "Metagaming",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 3109
+  },
+  {
+    "challenge_name": "BoxCutter",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 621
+  },
+  {
+    "challenge_name": "Recovery",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 2865
+  },
+  {
+    "challenge_name": "Russian Roulette",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 5624
+  },
+  {
+    "challenge_name": "Lucky Faucet",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 5445
+  },
+  {
+    "challenge_name": "Tutorial",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 4010
+  },
+  {
+    "challenge_name": "Maze of Mist",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 7988
+  },
+  {
+    "challenge_name": "Gloater",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Insane",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 17449
+  },
+  {
+    "challenge_name": "Oracle",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 11353
+  },
+  {
+    "challenge_name": "Rocket Blaster XXX",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 6228
+  },
+  {
+    "challenge_name": "Delulu",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 4595
+  },
+  {
+    "challenge_name": "Pet companion",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 9281
+  },
+  {
+    "challenge_name": "Writing on the wall",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 4355
+  },
+  {
+    "challenge_name": "Death Note",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 15703
+  },
+  {
+    "challenge_name": "Sound of Silence",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2024",
+    "year": 2024,
+    "writeup_length": 3440
+  },
+  {
+    "challenge_name": "Hidden Path",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 6137
+  },
+  {
+    "challenge_name": "Super-Duper Pwn",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 6756
+  },
+  {
+    "challenge_name": "Aptitude Test",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 1013
+  },
+  {
+    "challenge_name": "Zephyr",
+    "category": "misc",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 2160
+  },
+  {
+    "challenge_name": "Prison Pipeline",
+    "category": "misc",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 916
+  },
+  {
+    "challenge_name": "Chrono Mind",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 1212
+  },
+  {
+    "challenge_name": "Locked Away",
+    "category": "misc",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 2831
+  },
+  {
+    "challenge_name": "Living with Elegance",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 8305
+  },
+  {
+    "challenge_name": "Not that random",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 7895
+  },
+  {
+    "challenge_name": "Bloom Bloom",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 11523
+  },
+  {
+    "challenge_name": "Blessed",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 27547
+  },
+  {
+    "challenge_name": "eXciting Outpost Recon",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 2466
+  },
+  {
+    "challenge_name": "Six Five O Two",
+    "category": "hardware",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 8305
+  },
+  {
+    "challenge_name": "Say Cheese!",
+    "category": "hardware",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 5550
+  },
+  {
+    "challenge_name": "It's Oops PM",
+    "category": "hardware",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 3858
+  },
+  {
+    "challenge_name": "Magicom",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 18412
+  },
+  {
+    "challenge_name": "HTB Proxy",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 28581
+  },
+  {
+    "challenge_name": "OmniWatch",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 36354
+  },
+  {
+    "challenge_name": "Blueprint Heist",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 12511
+  },
+  {
+    "challenge_name": "Jailbreak",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 1511
+  },
+  {
+    "challenge_name": "SOS or SSO?",
+    "category": "web",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 8906
+  },
+  {
+    "challenge_name": "Submerged",
+    "category": "fullpwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 7366
+  },
+  {
+    "challenge_name": "Swarm",
+    "category": "fullpwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 13973
+  },
+  {
+    "challenge_name": "Survivor",
+    "category": "fullpwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 6672
+  },
+  {
+    "challenge_name": "NeoHub",
+    "category": "fullpwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 24094
+  },
+  {
+    "challenge_name": "Bulwark",
+    "category": "fullpwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 95348
+  },
+  {
+    "challenge_name": "Caving",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 2729
+  },
+  {
+    "challenge_name": "Counter Defensive",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 14400
+  },
+  {
+    "challenge_name": "Silicon Data Sleuthing",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 10786
+  },
+  {
+    "challenge_name": "Tangled Heist",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 6884
+  },
+  {
+    "challenge_name": "Mitigation",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 4318
+  },
+  {
+    "challenge_name": "SatelliteHijack",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 11159
+  },
+  {
+    "challenge_name": "TunnelMadness",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 5498
+  },
+  {
+    "challenge_name": "FlagCasino",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 2675
+  },
+  {
+    "challenge_name": "DontPanic",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 7211
+  },
+  {
+    "challenge_name": "SnappedShut",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 5015
+  },
+  {
+    "challenge_name": "Brokenswap",
+    "category": "blockchain",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 16250
+  },
+  {
+    "challenge_name": "NotADemocraticElection",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 7765
+  },
+  {
+    "challenge_name": "Recruitment",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 7998
+  },
+  {
+    "challenge_name": "MetaVault",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 14444
+  },
+  {
+    "challenge_name": "Pyrrhus",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 13360
+  },
+  {
+    "challenge_name": "Regularity",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 4542
+  },
+  {
+    "challenge_name": "No Gadgets",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 20027
+  },
+  {
+    "challenge_name": "Abyss",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 2983
+  },
+  {
+    "challenge_name": "Insidious",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2024",
+    "year": 2024,
+    "writeup_length": 14877
+  },
+  {
+    "challenge_name": "sugar free candies",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 5183
+  },
+  {
+    "challenge_name": "binary basis",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 10110
+  },
+  {
+    "challenge_name": "hybrid unifier",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 13542
+  },
+  {
+    "challenge_name": "brevi moduli",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 6404
+  },
+  {
+    "challenge_name": "sekur julius",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 6275
+  },
+  {
+    "challenge_name": "Phantom Script",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 893
+  },
+  {
+    "challenge_name": "Void Whispers",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 4108
+  },
+  {
+    "challenge_name": "Waywitch",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 3609
+  },
+  {
+    "challenge_name": "Unholy Union",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 1740
+  },
+  {
+    "challenge_name": "Sp00ky Theme",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 3022
+  },
+  {
+    "challenge_name": "Forbidden Manuscript",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 2572
+  },
+  {
+    "challenge_name": "The Shortcut Haunting",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 2955
+  },
+  {
+    "challenge_name": "Terrorfryer",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 2836
+  },
+  {
+    "challenge_name": "CryptOfTheUndead",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 3370
+  },
+  {
+    "challenge_name": "SpookyPass",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 771
+  },
+  {
+    "challenge_name": "LinkHands",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 3016
+  },
+  {
+    "challenge_name": "Graverobber",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 2304
+  },
+  {
+    "challenge_name": "El Pipo",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 4650
+  },
+  {
+    "challenge_name": "El Teteo",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 6280
+  },
+  {
+    "challenge_name": "El Mundo",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 10554
+  },
+  {
+    "challenge_name": "Mathematricks",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 6582
+  },
+  {
+    "challenge_name": "Que onda",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "hacktheboo-2024",
+    "year": 2024,
+    "writeup_length": 4366
+  },
+  {
+    "challenge_name": "exfiltrated entropy",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 13377
+  },
+  {
+    "challenge_name": "alphascii clashing",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 10959
+  },
+  {
+    "challenge_name": "cryptospiracy theory",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 14263
+  },
+  {
+    "challenge_name": "Clutch",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 19787
+  },
+  {
+    "challenge_name": "MulTLock",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 12539
+  },
+  {
+    "challenge_name": "Intergalactic Bounty",
+    "category": "web",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 7077
+  },
+  {
+    "challenge_name": "Breaking Bank",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 22323
+  },
+  {
+    "challenge_name": "Armaxis",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 3998
+  },
+  {
+    "challenge_name": "EncoDecept",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 15793
+  },
+  {
+    "challenge_name": "Freedom",
+    "category": "fullpwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 11635
+  },
+  {
+    "challenge_name": "Apolo",
+    "category": "fullpwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 8936
+  },
+  {
+    "challenge_name": "Clouded",
+    "category": "fullpwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 12763
+  },
+  {
+    "challenge_name": "Frontier Exposed",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 3550
+  },
+  {
+    "challenge_name": "Binary Badresources",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 3277
+  },
+  {
+    "challenge_name": "Signaling Victorious",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 24478
+  },
+  {
+    "challenge_name": "Wanted Alive",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 4020
+  },
+  {
+    "challenge_name": "ColossalBreach",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 2077
+  },
+  {
+    "challenge_name": "SecurityInTheFront",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 1644
+  },
+  {
+    "challenge_name": "CryoWarmup",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 1368
+  },
+  {
+    "challenge_name": "GravitometerGambit",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 24167
+  },
+  {
+    "challenge_name": "Stargazer",
+    "category": "blockchain",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 27948
+  },
+  {
+    "challenge_name": "FrontierMArketplace",
+    "category": "blockchain",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 16832
+  },
+  {
+    "challenge_name": "CryoPod",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 8093
+  },
+  {
+    "challenge_name": "ForgottenArtifact",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 16739
+  },
+  {
+    "challenge_name": "Recruitment",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 13827
+  },
+  {
+    "challenge_name": "Dead or Alive",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 18764
+  },
+  {
+    "challenge_name": "Reconstruction",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 13544
+  },
+  {
+    "challenge_name": "Prison_Break",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2024",
+    "year": 2024,
+    "writeup_length": 10845
+  },
+  {
+    "challenge_name": "Traces",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 16104
+  },
+  {
+    "challenge_name": "hourcle",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 8262
+  },
+  {
+    "challenge_name": "Prelim",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 3806
+  },
+  {
+    "challenge_name": "Kewiri",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 12433
+  },
+  {
+    "challenge_name": "Verilicious",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 9228
+  },
+  {
+    "challenge_name": "Copperbox",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 4814
+  },
+  {
+    "challenge_name": "Twin Oracles",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 11620
+  },
+  {
+    "challenge_name": "web_trial_by_fire",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 1279
+  },
+  {
+    "challenge_name": "web_obsidian_enigma",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 6417
+  },
+  {
+    "challenge_name": "web_aurorus_archive",
+    "category": "web",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 9390
+  },
+  {
+    "challenge_name": "web_eldoria_panel",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 12843
+  },
+  {
+    "challenge_name": "web_eldoria_realms",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 13428
+  },
+  {
+    "challenge_name": "web_whispers_of_the_moonbeam",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 968
+  },
+  {
+    "challenge_name": "ToolPie",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 18724
+  },
+  {
+    "challenge_name": "A New Hire",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 3828
+  },
+  {
+    "challenge_name": "Tales for the Brave",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 24206
+  },
+  {
+    "challenge_name": "Stealth Invasion",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 8233
+  },
+  {
+    "challenge_name": "Silent Trap",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 8407
+  },
+  {
+    "challenge_name": "Thorins Amulet",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 3143
+  },
+  {
+    "challenge_name": "Cave Expedition",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 14698
+  },
+  {
+    "challenge_name": "SealedRune",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 2057
+  },
+  {
+    "challenge_name": "EndlessCycle",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 3267
+  },
+  {
+    "challenge_name": "Impossimaze",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 4793
+  },
+  {
+    "challenge_name": "Singlestep",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 29753
+  },
+  {
+    "challenge_name": "EncryptedScroll",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 1678
+  },
+  {
+    "challenge_name": "Gateway",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 23209
+  },
+  {
+    "challenge_name": "Heart Protector",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 17888
+  },
+  {
+    "challenge_name": "Eldorion",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 10550
+  },
+  {
+    "challenge_name": "EldoriaGate",
+    "category": "blockchain",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 13379
+  },
+  {
+    "challenge_name": "HeliosDEX",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 13587
+  },
+  {
+    "challenge_name": "Vault",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 12264
+  },
+  {
+    "challenge_name": "Blessing",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 5532
+  },
+  {
+    "challenge_name": "Crossbow",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 6676
+  },
+  {
+    "challenge_name": "Laconic",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 2804
+  },
+  {
+    "challenge_name": "Quack Quack",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 6504
+  },
+  {
+    "challenge_name": "Strategist",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 11482
+  },
+  {
+    "challenge_name": "Contractor",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "cyber-apocalypse-2025",
+    "year": 2025,
+    "writeup_length": 15527
+  },
+  {
+    "challenge_name": "Curveware",
+    "category": "crypto",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 33433
+  },
+  {
+    "challenge_name": "Early Bird",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 12834
+  },
+  {
+    "challenge_name": "Hidden Handshake",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 3828
+  },
+  {
+    "challenge_name": "Transcoded",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 5589
+  },
+  {
+    "challenge_name": "Phoenix Zero Trust",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 6193
+  },
+  {
+    "challenge_name": "VolnatekMotors",
+    "category": "hardware",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 33289
+  },
+  {
+    "challenge_name": "PhantomGate",
+    "category": "hardware",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 36472
+  },
+  {
+    "challenge_name": "VolnayanWhisper",
+    "category": "hardware",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 9610
+  },
+  {
+    "challenge_name": "SkyRecon",
+    "category": "hardware",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 11297
+  },
+  {
+    "challenge_name": "EchoesOfAuthority",
+    "category": "hardware",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 11891
+  },
+  {
+    "challenge_name": "Blackout Ops",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 3593
+  },
+  {
+    "challenge_name": "Volnaya Forums",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 20010
+  },
+  {
+    "challenge_name": "novacore",
+    "category": "web",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 133333
+  },
+  {
+    "challenge_name": "QuickBlog",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 65391
+  },
+  {
+    "challenge_name": "Driver's Shadow",
+    "category": "forensics",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 16823
+  },
+  {
+    "challenge_name": "Phantom Check",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 3810
+  },
+  {
+    "challenge_name": "The Nexus Breach",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 17395
+  },
+  {
+    "challenge_name": "Ghost Thread",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 5318
+  },
+  {
+    "challenge_name": "Smoke & Mirrors",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 3603
+  },
+  {
+    "challenge_name": "Scrambled Payload",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 2953
+  },
+  {
+    "challenge_name": "EvilBox",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 18729
+  },
+  {
+    "challenge_name": "Industry Secret",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 5161
+  },
+  {
+    "challenge_name": "TinyPlatformer",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 15190
+  },
+  {
+    "challenge_name": "ShadowLabyrinth",
+    "category": "reversing",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 33853
+  },
+  {
+    "challenge_name": "Spectral",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 7454
+  },
+  {
+    "challenge_name": "Enlistment",
+    "category": "blockchain",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 8169
+  },
+  {
+    "challenge_name": "Blockout",
+    "category": "blockchain",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 12737
+  },
+  {
+    "challenge_name": "Cyber Bankrupt",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 10714
+  },
+  {
+    "challenge_name": "LiteServe",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 18883
+  },
+  {
+    "challenge_name": "NeonCGI",
+    "category": "pwn",
+    "difficulty": "Advanced",
+    "difficulty_original": "Hard",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 8999
+  },
+  {
+    "challenge_name": "Power Greed",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 3393
+  },
+  {
+    "challenge_name": "Null Assembler",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "business-ctf-2025",
+    "year": 2025,
+    "writeup_length": 5736
+  },
+  {
+    "challenge_name": "Optimistic",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 9110
+  },
+  {
+    "challenge_name": "Disguised",
+    "category": "crypto",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 20118
+  },
+  {
+    "challenge_name": "One Trick Pony",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 11680
+  },
+  {
+    "challenge_name": "peppermintroute",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 33740
+  },
+  {
+    "challenge_name": "deadroute",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 6932
+  },
+  {
+    "challenge_name": "silentsnow",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 8549
+  },
+  {
+    "challenge_name": "Snowy Extension",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 3192
+  },
+  {
+    "challenge_name": "A Trail of Snow and Deception",
+    "category": "forensics",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 10882
+  },
+  {
+    "challenge_name": "SantaGiveaway",
+    "category": "forensics",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 10403
+  },
+  {
+    "challenge_name": "Clock Work Memory",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 5259
+  },
+  {
+    "challenge_name": "Starshard Reassembly",
+    "category": "reversing",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 10350
+  },
+  {
+    "challenge_name": "CloudyCore",
+    "category": "reversing",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 13510
+  },
+  {
+    "challenge_name": "SHL337",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 1638
+  },
+  {
+    "challenge_name": "Starshard Core",
+    "category": "pwn",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 16646
+  },
+  {
+    "challenge_name": "Feel My Terror",
+    "category": "pwn",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "university-ctf-2025",
+    "year": 2025,
+    "writeup_length": 5920
+  },
+  {
+    "challenge_name": "jinjacare",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "bug-bounty-ctf",
+    "year": 2025,
+    "writeup_length": 2874
+  },
+  {
+    "challenge_name": "speednet",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "bug-bounty-ctf",
+    "year": 2025,
+    "writeup_length": 9112
+  },
+  {
+    "challenge_name": "neovault",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "bug-bounty-ctf",
+    "year": 2025,
+    "writeup_length": 5294
+  },
+  {
+    "challenge_name": "citismart",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "bug-bounty-ctf",
+    "year": 2025,
+    "writeup_length": 7975
+  },
+  {
+    "challenge_name": "novaenergy",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Easy",
+    "ctf_event": "bug-bounty-ctf",
+    "year": 2025,
+    "writeup_length": 2462
+  },
+  {
+    "challenge_name": "criticalops",
+    "category": "web",
+    "difficulty": "Beginner",
+    "difficulty_original": "Very Easy",
+    "ctf_event": "bug-bounty-ctf",
+    "year": 2025,
+    "writeup_length": 2619
+  },
+  {
+    "challenge_name": "sattrack",
+    "category": "web",
+    "difficulty": "Intermediate",
+    "difficulty_original": "Medium",
+    "ctf_event": "bug-bounty-ctf",
+    "year": 2025,
+    "writeup_length": 13106
+  }
+]

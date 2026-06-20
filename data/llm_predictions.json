@@ -1,0 +1,764 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "max_writeup_chars": 8000,
+  "n_samples": 91,
+  "complete": true,
+  "metrics": {
+    "accuracy": 0.45054945054945056,
+    "macro_f1": 0.42277167277167277,
+    "macro_precision": 0.5075757575757576,
+    "macro_recall": 0.556060606060606,
+    "per_class_f1": [
+      0.5897435897435898,
+      0.25,
+      0.42857142857142855
+    ],
+    "confusion_matrix": [
+      [
+        23,
+        18,
+        14
+      ],
+      [
+        0,
+        6,
+        18
+      ],
+      [
+        0,
+        0,
+        12
+      ]
+    ]
+  },
+  "predictions": [
+    {
+      "challenge_name": "Traces",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 16104
+    },
+    {
+      "challenge_name": "hourcle",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 8262
+    },
+    {
+      "challenge_name": "Prelim",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 3806
+    },
+    {
+      "challenge_name": "Kewiri",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 12433
+    },
+    {
+      "challenge_name": "Verilicious",
+      "category": "crypto",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 9228
+    },
+    {
+      "challenge_name": "Copperbox",
+      "category": "crypto",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 4814
+    },
+    {
+      "challenge_name": "Twin Oracles",
+      "category": "crypto",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 11620
+    },
+    {
+      "challenge_name": "web_trial_by_fire",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 1279
+    },
+    {
+      "challenge_name": "web_obsidian_enigma",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 6417
+    },
+    {
+      "challenge_name": "web_aurorus_archive",
+      "category": "web",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 9390
+    },
+    {
+      "challenge_name": "web_eldoria_panel",
+      "category": "web",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 12843
+    },
+    {
+      "challenge_name": "web_eldoria_realms",
+      "category": "web",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 13428
+    },
+    {
+      "challenge_name": "web_whispers_of_the_moonbeam",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 968
+    },
+    {
+      "challenge_name": "ToolPie",
+      "category": "forensics",
+      "true_label": "Intermediate",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 18724
+    },
+    {
+      "challenge_name": "A New Hire",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 3828
+    },
+    {
+      "challenge_name": "Tales for the Brave",
+      "category": "forensics",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 24206
+    },
+    {
+      "challenge_name": "Stealth Invasion",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 8233
+    },
+    {
+      "challenge_name": "Silent Trap",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 8407
+    },
+    {
+      "challenge_name": "Thorins Amulet",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 3143
+    },
+    {
+      "challenge_name": "Cave Expedition",
+      "category": "forensics",
+      "true_label": "Intermediate",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 14698
+    },
+    {
+      "challenge_name": "SealedRune",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 2057
+    },
+    {
+      "challenge_name": "EndlessCycle",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 3267
+    },
+    {
+      "challenge_name": "Impossimaze",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 4793
+    },
+    {
+      "challenge_name": "Singlestep",
+      "category": "reversing",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 29753
+    },
+    {
+      "challenge_name": "EncryptedScroll",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 1678
+    },
+    {
+      "challenge_name": "Gateway",
+      "category": "reversing",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 23209
+    },
+    {
+      "challenge_name": "Heart Protector",
+      "category": "reversing",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 17888
+    },
+    {
+      "challenge_name": "Eldorion",
+      "category": "blockchain",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 10550
+    },
+    {
+      "challenge_name": "EldoriaGate",
+      "category": "blockchain",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 13379
+    },
+    {
+      "challenge_name": "HeliosDEX",
+      "category": "blockchain",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 13587
+    },
+    {
+      "challenge_name": "Vault",
+      "category": "pwn",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 12264
+    },
+    {
+      "challenge_name": "Blessing",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 5532
+    },
+    {
+      "challenge_name": "Crossbow",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 6676
+    },
+    {
+      "challenge_name": "Laconic",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 2804
+    },
+    {
+      "challenge_name": "Quack Quack",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 6504
+    },
+    {
+      "challenge_name": "Strategist",
+      "category": "pwn",
+      "true_label": "Intermediate",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 11482
+    },
+    {
+      "challenge_name": "Contractor",
+      "category": "pwn",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 15527
+    },
+    {
+      "challenge_name": "Curveware",
+      "category": "crypto",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 33433
+    },
+    {
+      "challenge_name": "Early Bird",
+      "category": "crypto",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 12834
+    },
+    {
+      "challenge_name": "Hidden Handshake",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 3828
+    },
+    {
+      "challenge_name": "Transcoded",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 5589
+    },
+    {
+      "challenge_name": "Phoenix Zero Trust",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 6193
+    },
+    {
+      "challenge_name": "VolnatekMotors",
+      "category": "hardware",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 33289
+    },
+    {
+      "challenge_name": "PhantomGate",
+      "category": "hardware",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 36472
+    },
+    {
+      "challenge_name": "VolnayanWhisper",
+      "category": "hardware",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 9610
+    },
+    {
+      "challenge_name": "SkyRecon",
+      "category": "hardware",
+      "true_label": "Intermediate",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 11297
+    },
+    {
+      "challenge_name": "EchoesOfAuthority",
+      "category": "hardware",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 11891
+    },
+    {
+      "challenge_name": "Blackout Ops",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 3593
+    },
+    {
+      "challenge_name": "Volnaya Forums",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 20010
+    },
+    {
+      "challenge_name": "novacore",
+      "category": "web",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 133333
+    },
+    {
+      "challenge_name": "QuickBlog",
+      "category": "web",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 65391
+    },
+    {
+      "challenge_name": "Driver's Shadow",
+      "category": "forensics",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 16823
+    },
+    {
+      "challenge_name": "Phantom Check",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 3810
+    },
+    {
+      "challenge_name": "The Nexus Breach",
+      "category": "forensics",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 17395
+    },
+    {
+      "challenge_name": "Ghost Thread",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 5318
+    },
+    {
+      "challenge_name": "Smoke & Mirrors",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 3603
+    },
+    {
+      "challenge_name": "Scrambled Payload",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 2953
+    },
+    {
+      "challenge_name": "EvilBox",
+      "category": "reversing",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 18729
+    },
+    {
+      "challenge_name": "Industry Secret",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 5161
+    },
+    {
+      "challenge_name": "TinyPlatformer",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 15190
+    },
+    {
+      "challenge_name": "ShadowLabyrinth",
+      "category": "reversing",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 33853
+    },
+    {
+      "challenge_name": "Spectral",
+      "category": "blockchain",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 7454
+    },
+    {
+      "challenge_name": "Enlistment",
+      "category": "blockchain",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 8169
+    },
+    {
+      "challenge_name": "Blockout",
+      "category": "blockchain",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 12737
+    },
+    {
+      "challenge_name": "Cyber Bankrupt",
+      "category": "pwn",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 10714
+    },
+    {
+      "challenge_name": "LiteServe",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 18883
+    },
+    {
+      "challenge_name": "NeonCGI",
+      "category": "pwn",
+      "true_label": "Advanced",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 8999
+    },
+    {
+      "challenge_name": "Power Greed",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 3393
+    },
+    {
+      "challenge_name": "Null Assembler",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 5736
+    },
+    {
+      "challenge_name": "Optimistic",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 9110
+    },
+    {
+      "challenge_name": "Disguised",
+      "category": "crypto",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 20118
+    },
+    {
+      "challenge_name": "One Trick Pony",
+      "category": "crypto",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 11680
+    },
+    {
+      "challenge_name": "peppermintroute",
+      "category": "web",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 33740
+    },
+    {
+      "challenge_name": "deadroute",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 6932
+    },
+    {
+      "challenge_name": "silentsnow",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 8549
+    },
+    {
+      "challenge_name": "Snowy Extension",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 3192
+    },
+    {
+      "challenge_name": "A Trail of Snow and Deception",
+      "category": "forensics",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 10882
+    },
+    {
+      "challenge_name": "SantaGiveaway",
+      "category": "forensics",
+      "true_label": "Intermediate",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 10403
+    },
+    {
+      "challenge_name": "Clock Work Memory",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 5259
+    },
+    {
+      "challenge_name": "Starshard Reassembly",
+      "category": "reversing",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 10350
+    },
+    {
+      "challenge_name": "CloudyCore",
+      "category": "reversing",
+      "true_label": "Intermediate",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 13510
+    },
+    {
+      "challenge_name": "SHL337",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 1638
+    },
+    {
+      "challenge_name": "Starshard Core",
+      "category": "pwn",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 16646
+    },
+    {
+      "challenge_name": "Feel My Terror",
+      "category": "pwn",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 5920
+    },
+    {
+      "challenge_name": "jinjacare",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 2874
+    },
+    {
+      "challenge_name": "speednet",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 9112
+    },
+    {
+      "challenge_name": "neovault",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 5294
+    },
+    {
+      "challenge_name": "citismart",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Intermediate",
+      "raw_response": "Intermediate",
+      "writeup_length": 7975
+    },
+    {
+      "challenge_name": "novaenergy",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 2462
+    },
+    {
+      "challenge_name": "criticalops",
+      "category": "web",
+      "true_label": "Beginner",
+      "predicted": "Beginner",
+      "raw_response": "Beginner",
+      "writeup_length": 2619
+    },
+    {
+      "challenge_name": "sattrack",
+      "category": "web",
+      "true_label": "Intermediate",
+      "predicted": "Advanced",
+      "raw_response": "Advanced",
+      "writeup_length": 13106
+    }
+  ]
+}
