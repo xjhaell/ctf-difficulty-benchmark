@@ -26,7 +26,7 @@ The writeup text is not redistributed here. The text is authored by HackTheBox a
 
 To reconstruct the full text locally:
 
-```
+```bash
 python3 fetch_writeups.py
 ```
 
@@ -56,7 +56,7 @@ The temporal split is the benchmark partition. It trains on 2023--2024 events an
 
 ## Citation
 
-```
+```bibtex
 @inproceedings{jimenez2026ctf,
   author    = {Jimenez, Jhaell and Kim, Yoohwan and Jo, Ju-Yeon},
   title     = {Predicting {CTF} Challenge Difficulty from Solution Writeups: A Benchmark Dataset and {NLP} Analysis},
